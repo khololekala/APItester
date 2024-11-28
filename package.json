@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@octokit/auth-oauth-app": "^8.1.1"
+  }
+}
